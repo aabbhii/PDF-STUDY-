@@ -1,4 +1,4 @@
-(Files content cropped to 300k characters, download full ingest to see more)
+
 ================================================
 FILE: README.md
 ================================================
